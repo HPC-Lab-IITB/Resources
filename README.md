@@ -1,5 +1,5 @@
 # Resources
-The cloud version of Madar's famous webpage on 22.
+The cloud version of Mandar Datar's famous webpage on 22.
 
 ## Organization and submodules
 This repostory is organized as submodules, because some of the resources have a lot of details. So, to get started please run:
